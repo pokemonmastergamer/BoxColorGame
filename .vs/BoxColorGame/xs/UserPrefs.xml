@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FE96CA0A-965A-2FF8-81C1-0AA4E752DB10}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Main Scripts/TileMaterialScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main Scripts/Player.cs" Line="24" Column="3" />
+      <File FileName="Assets/Scripts/Main Scripts/TileMaterialScript.cs" Line="132" Column="46" />
+      <File FileName="Assets/Scripts/Main Scripts/GlobalScore.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoxColorGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Main Scripts" expanded="True">
+                  <Node name="TileMaterialScript.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ff2b7da7-145e-48f9-9a60-5c25a21e9ffb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
